@@ -1,2 +1,7 @@
-# E29-DTS-PROJECT
-Tugas kelompok terdiri dari (5 orang) untuk mengerjakan tugas DTS KOMINFO melalui mitra PROGATE
+## Setup Environment
+```
+pip install -r requirements.txt
+```
+
+## Run Steamlit app
+steamlit run app.py
