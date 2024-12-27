@@ -1,8 +1,6 @@
-pip install
 matplotlib==3.10.0
 pandas==2.2.3
 streamlit==1.41.1
 seaborn==0.13.2
 geopandas==1.0.1
 shapely==2.0.6
-streamlit run dashboard\app.py
