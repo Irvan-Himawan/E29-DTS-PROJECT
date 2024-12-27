@@ -9,7 +9,7 @@ st.subheader('Dicoding course final project')
 st.text('by Irvan Alvisa Himawan')
 
 ## Read Data
-merged_df = pd.read_csv('cleaned_dataset/merge_order_product_cust.csv')
+merged_df = pd.read_csv('https://raw.githubusercontent.com/Irvan-Himawan/E29-DTS-PROJECT/refs/heads/master/dashboard/cleaned_dataset/merge_order_product_cust.csv')
 
 st.subheader('Sample data E-Commerce Transaction that delivered to Customer')
 st.write(merged_df.head())
